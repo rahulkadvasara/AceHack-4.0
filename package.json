@@ -1,0 +1,27 @@
+{
+    "name": "decentralized-research-publisher",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "test": "hardhat test"
+    },
+    "dependencies": {
+        "@web3modal/wagmi": "latest",
+        "axios": "latest",
+        "ethers": "latest",
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "tailwindcss": "latest",
+        "web3": "^4.16.0"
+    },
+    "devDependencies": {
+        "@openzeppelin/contracts": "latest",
+        "chai": "latest",
+        "dotenv": "^16.4.7",
+        "hardhat": "^0.0.7"
+    }
+}

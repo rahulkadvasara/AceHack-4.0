@@ -1,0 +1,25 @@
+          [ User ]
+             │
+             ▼
+   [React Frontend] ───► [Flask Backend API]
+             │
+             ▼
+  ┌───────────────────┐
+  │Web3.js & Metamask │
+  └───────────────────┘
+             │
+             ▼
+   [Solidity Smart Contracts]
+             │
+             ▼
+ ┌─────────────────────┐
+ │ Ethereum Blockchain │
+ └─────────────────────┘
+             │
+             ▼
+  ┌─────────────────┐
+  │		  IPFS			   │ (Decentralized Storage)
+  └─────────────────┘
+             │
+             ▼
+  [User Can Access Research Papers]

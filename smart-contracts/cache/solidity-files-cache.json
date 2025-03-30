@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Projects\\AceHack 4.0\\smart-contracts\\contracts\\ResearchFunding.sol": {
+      "lastModificationDate": 1743245276418,
+      "contentHash": "7aa8f4fa581930a3d94b262fb1da8d7f",
+      "sourceName": "contracts/ResearchFunding.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ResearchFunding"
+      ]
+    }
+  }
+}
