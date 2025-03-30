@@ -116,7 +116,3 @@ npx hardhat run scripts/deploy.js --network localhost  # Deploys contract
 
 ## **📜 License**  
 This project is licensed under **MIT License**.  
-
----
-
-Let me know if you need modifications! 🚀
